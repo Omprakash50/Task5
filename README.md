@@ -8,6 +8,11 @@ RELATE LIVE CONFERENCE, Sydney, Australia — July 14, 2016 — Zendesk, Inc. (N
 
 “Zendesk continues to innovate its machine learning capabilities to help businesses provide effortless customer engagement,” said Adrian McDermott, senior vice president of product development at Zendesk. “Automatic Answers’ predictive capabilities provide customers with the resources they need to solve their issue quickly, and helps businesses free up their agents to focus on inquiries that need a human touch.”
 
+
+![m](Zendesk-Machine-Learning-Social-2@2x.png)
+
+"Companies used to have a manual process wi ..
+
 Automatic Answers enables forward-thinking companies to help their customer service agents become more effective, allowing them to devote valuable time and resources to critical issues. Before, agents had to manually respond and solve simple, repetitive customer tickets. With Automatic Answers, the feature uses machine learning capabilities to analyze customer and agent actions over time, learning which articles solve tickets associated with specific keywords and topics. If a customer indicates their inquiry has been solved successfully, the ticket is closed. For tickets that remain unsolved, they proceed to the customer service team as normal.
 
 To meet the needs of their growing customer base and more efficiently help their customers get the most out of the service, Plex is exploring Automatic Answers. Plex provides a powerful and easy-to-use suite of products and services for accessing all your media across all your devices.
