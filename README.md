@@ -16,13 +16,28 @@ ___
 
 Automatic Answers enables forward-thinking companies to help their customer service agents become more effective, allowing them to devote valuable time and resources to critical issues. Before, agents had to manually respond and solve simple, repetitive customer tickets. With Automatic Answers, the feature uses machine learning capabilities to analyze customer and agent actions over time, learning which articles solve tickets associated with specific keywords and topics. If a customer indicates their inquiry has been solved successfully, the ticket is closed. For tickets that remain unsolved, they proceed to the customer service team as normal.
 
-To meet the needs of their growing customer base and more efficiently help their customers get the most out of the service, Plex is exploring Automatic Answers. Plex provides a powerful and easy-to-use suite of products and services for accessing all your media across all your devices.
+## Zendesk’s AI Toolkit
+While Zendesk has seamless multi-channel support, automation, and analytical abilities, there are many AI companies that have built powerful tools with integrations for Zendesk. 
 
-“At Plex, we’re always looking at how we can use technology to smartly serve our customers and improve the overall experience,” said Scott Olechowski, Chief Product Officer at Plex. “We’re excited about Automatic Answers because we hope it will give our customers the answers they need to solve their questions faster.”
+Let’s take a look at some of these tools and integrations in more detail:
 
-Automatic Answers was developed by Zendesk’s Melbourne product team, who previously brought Satisfaction Prediction to market.
+## AI Ticketing
+There’s lots of hype when it comes to chatbots, but there are other ways in which AI is powering customer service teams, including AI ticketing. 
 
-Zendesk customers interested in early access for Automatic Answers can sign up at zendesk.com/automatic.
+AI ticketing is the process of automatically tagging and routing incoming tickets. It’s a process that customer agents are all too familiar with. When they receive tickets, they need to sort them by tagging them with relevant categories, after which they send them to the appropriate team member to deal with the customer issue or query. Well, this tedious and often frustrating task is slowly being replaced by AI ticketing tools that use text analysis. 
+
+Zendesk’s customer support platform can easily be integrated with AI ticket tagging tools such as MonkeyLearn that use text analysis to help support teams automatically classify tickets based on their content, and extract important information. Depending on the problem you’re trying to solve, there are a range of text analysis models you can use, some of which we’ve outlined below:
+
+Sentiment Analysis
+Sentiment analysis is the rising star of the text analysis world. It’s a quick and easy way to find out how your service, product, or a particular aspect of your business, such as customer service, is perceived by your customers. Do they mostly talk about your customer service in a negative or positive way, for example? A sentiment analysis tool recognizes words and expressions, such as poor, bad service, disappointed, excellent, easy to use, as either negative or positive to come to a conclusion. 
+
+Within Zendesk, you can use MonkeyLearn’s pre-built sentiment analysis model, or you can build your own custom model with your own data and criteria. Either way, those incoming tickets will soon be classified by sentiment and you’ll be able to use Zendesk’s analytical tools to make sense of this ‘classified’ data.
+
+Topic classification
+This is a great way to delve deeper into conversations with customers. You can hone in on exactly what your customers are talking about in support tickets, emails, or chat conversations. 
+
+Let’s say you automatically convert public tweets that mention your Twitter handle (for example, @zendesk) into tickets, and you run a sentiment analysis model on your tweets using the Zendesk MonkeyLearn integration. You receive a bunch of results that categorize your tweets as positive, neutral, and negative. Now, let’s say you want to know what these negative tweets mention, so that you can turn these negatives into positives, and prevent customer churn. You’d run a topic classification model.
+
 
 ## About Zendesk
 Zendesk builds software for better customer relationships. It empowers organizations to improve customer engagement and better understand their customers. More than 75,000 paid customer accounts in 150 countries and territories use Zendesk products. Based in San Francisco, Zendesk has operations in the United States, Europe, Asia, Australia, and South America. Learn more at www.zendesk.com.
