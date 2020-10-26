@@ -1,7 +1,7 @@
 # Task5
 
 ## Zendesk Brings The Power Of Machine Learning To Customer Service With Automatic Answers
-
+![m](Zendesk-Machine-Learning-Social-2@2x.png)
 
 Companies Can Now Effortlessly Provide Fast, Accurate Responses to their Customers
 RELATE LIVE CONFERENCE, Sydney, Australia — July 14, 2016 — Zendesk, Inc. (NYSE: ZEN) today announced the launch of Automatic Answers, a feature powered by machine learning within Zendesk that helps customers solve their inquiries faster and enables businesses to have more efficient support teams. Zendesk is one of the first customer service platforms implementing machine learning to natively auto-respond to customer tickets with relevant knowledge base articles, helping solve and deflect customer inquiries before they ever reach an agent.
