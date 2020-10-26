@@ -8,8 +8,9 @@ RELATE LIVE CONFERENCE, Sydney, Australia — July 14, 2016 — Zendesk, Inc. (N
 
 “Zendesk continues to innovate its machine learning capabilities to help businesses provide effortless customer engagement,” said Adrian McDermott, senior vice president of product development at Zendesk. “Automatic Answers’ predictive capabilities provide customers with the resources they need to solve their issue quickly, and helps businesses free up their agents to focus on inquiries that need a human touch.”
 
+___
 
-![m](Zendesk-Machine-Learning-Social-2@2x.png)
+![m](56e74487910584716f8b6215.jpeg)
 
 "Companies used to have a manual process wi ..
 
